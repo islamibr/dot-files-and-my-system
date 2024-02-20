@@ -1,7 +1,3 @@
-Absolutely, let's maintain the details while refining the representation for a README:
-
----
-
 # Dot Files and My System
 
 ## Introduction
