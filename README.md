@@ -29,7 +29,7 @@ After experimenting with various distributions (including Ubuntu, Debian, CentOS
 
 ## Cloud Sync for Seamless Integration
 
-To minimize the hassle of switching systems, I employ cloud sync apps for e.g. search, and other tasks.
+To minimize the hassle of switching systems, I employ cloud sync apps e.g., search, and other tasks.
 
 ## Architectural Philosophy
 
