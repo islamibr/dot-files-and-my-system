@@ -95,7 +95,6 @@ For functionalities not provided by Arch, additional components include:
   - pavucontrol, pulseaudio, and asla for audio management.
 
 - **Package Management:**
-  - pacman as the default package manager.
   - yay for additional apps.
   - snap for specific GNOME apps.
 
