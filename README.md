@@ -130,7 +130,8 @@ My productivity revolves around essential applications:
 
 - **Note-Taking and Organization:**
   - Notion as a top layer, syncing all data for seamless access.
-  - G-Keep, G-Calendar, Thunderbird, WhatsApp, Telegram, LinkedIn for communication and organization.
+  - G-Keep, G-Calendar for offline organization.
+  - Thunderbird, WhatsApp, Telegram, LinkedIn for communication
 
 - **Note-Taking System:**
   - LaTeX for building comprehensive notes.
