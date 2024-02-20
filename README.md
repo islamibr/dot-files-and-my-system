@@ -79,7 +79,7 @@ My system architecture adheres to these key principles:
 ### File and Disk Management
 
 - **File & Disk Manager:**
-  - nautilus for file management in GNOME.
+  - nautilus for file management with GUI.
   - mount for disk management.
 
 ### Text Editing
