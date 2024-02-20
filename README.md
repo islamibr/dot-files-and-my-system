@@ -101,7 +101,11 @@ For functionalities not provided by Arch, additional components include:
 - **System Administration:**
   - doas instead of sudo.
   - setxkbmap for keyboard layout adjustments.
-
+    
+- **Sharing Items:**
+  - xclip clipboard for text and screenshots.
+  - OBS stuido for recording youtube videos.
+    
 ## Laptop-Specific Additions
 
 - **Touchpad Manager:**
