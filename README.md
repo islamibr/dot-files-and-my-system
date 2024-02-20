@@ -9,7 +9,7 @@ Welcome to the repository housing my dot files and the intricate architecture of
 My system is strategically set up on two hard disks: one for the operating systems (a snappy 250G SSD) and another for data storage (a capacious 1T HDD). The reasons behind this setup are multi-fold:
 
 1. **Learn Unix/Linux as a Key Skill:**
-   - A crucial skill, especially for professional hardware programming, which predominantly utilizes RedHat.
+   - A crucial skill, especially for professional hardware, which predominantly utilizes RedHat.
 
 2. **Build Automation for Streamlined Processes:**
    - Automation reduces time wastage, enhancing overall efficiency.
