@@ -104,6 +104,7 @@ For functionalities not provided by Arch, additional components include:
     
 - **Sharing Items:**
   - xclip clipboard for text and screenshots.
+  - maim for taking screenshots.
   - OBS stuido for recording youtube videos.
     
 ## Laptop-Specific Additions
