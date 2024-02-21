@@ -80,6 +80,7 @@ My system architecture adheres to these key principles:
 - **File & Disk Manager:**
   - nautilus for file management with GUI.
   - mount for disk management.
+  - lf for integration with st and tmux.
 
 ### Text Editing
 
