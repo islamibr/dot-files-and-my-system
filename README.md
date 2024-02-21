@@ -74,7 +74,6 @@ My system architecture adheres to these key principles:
 - **Panel & Widget:**
   - dunst for notifications.
   - sxhkd and bspwm for advanced shortcuts.
-  - slstatus for a status bar.
   - htop for monitoring.
 
 ### File and Disk Management
