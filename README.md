@@ -58,6 +58,7 @@ My system architecture adheres to these key principles:
 - **Window Manager:**
   - dwm with various patches for a customizable experience.
   - Compositor: picom for smooth animations.
+  - nitrogen for background setting.
 
 - **Terminal:**
   - st terminal with patches for enhanced functionality.
