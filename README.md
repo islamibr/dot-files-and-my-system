@@ -63,7 +63,6 @@ My system architecture adheres to these key principles:
 - **Terminal:**
   - st terminal with patches for enhanced functionality.
   - tmux for a better terminal experience.
-  - alacritty for GPU-accelerated terminal.
   - Shell: fzy and zsh for improved usability.
 
 ### Menu, Panel, and Widgets
