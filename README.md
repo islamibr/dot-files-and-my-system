@@ -79,7 +79,7 @@ My system architecture adheres to these key principles:
 
 - **File & Disk Manager:**
   - nautilus for file management with GUI.
-  - ntfs-3g for disk management.
+  - ntfs-3g for disk mount management.
   - lf for integration with st and tmux.
 
 ### Text Editing
