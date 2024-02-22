@@ -87,7 +87,6 @@ My system architecture adheres to these key principles:
 
 - **Text Editor:**
   - neovim with UltiSnips for efficient text editing.
-  - lazy.nvim for converting the nvim to IDE.
 
 ## Beyond Arch Linux
 
