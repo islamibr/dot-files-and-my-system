@@ -71,8 +71,8 @@ My system architecture adheres to these key principles:
   - dmenu for a user-friendly application launcher.
 
 - **Panel & Widget:**
-  - dunst for notifications.
-  - sxhkd and bspwm for advanced shortcuts.
+  - dunst wirh cronie for notifications.
+  - sxhkd for advanced shortcuts.
   - htop for monitoring.
 
 ### File and Disk Management
@@ -81,6 +81,7 @@ My system architecture adheres to these key principles:
   - nautilus for file management with GUI.
   - ntfs-3g for disk mount management.
   - lf for integration with st and tmux.
+  - imv and mvp for image and video view.
 
 ### Text Editing
 
@@ -115,6 +116,8 @@ For functionalities not provided by Arch, additional components include:
 
 - **Power Manager:**
   - acpid for power management.
+  - brightnessctl for backlight management.
+  - batify for battery notifcations.
 
 - **Bluetooth Manager:**
   - bluez-utils for Bluetooth functionality.
