@@ -1,5 +1,9 @@
 # Dot Files and My System
 
+<p align="center">
+  <img src="image.png" alt="system screenshot" />
+</p>
+
 ## Introduction
 
 Welcome to the repository housing my dot files and the intricate architecture of my dual-boot system, featuring Windows 11 and Arch Linux. In this README, I'll provide you with an in-depth look at the choices, philosophies, and tools that power my productivity.
